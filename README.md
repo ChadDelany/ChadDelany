@@ -3,7 +3,7 @@
 - 🌱 I’m currently working through the Springboard Data Science Bootcamp.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 Please contact me via email: info@chaddelany.com <br>
-      LinkedIn: https://www.linkedin.com/in/chadcdelany/
+      LinkedIn: https://www.linkedin.com/in/ChadDelany/
 
 <!---
 ChadDelany/ChadDelany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
