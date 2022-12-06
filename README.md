@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChadDelany
-- 👀 I’m interested in Causal Inference and Bayesian Statistics.
+- 👀 I’m interested in Causal Inference, Bayesian Statistics, Land Cruisers, and Photography.
 - 🌱 I’m currently working through the Springboard Data Science program.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 Please contact me via email: info@ChadDelany.com <br>
